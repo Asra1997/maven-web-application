@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.96.46.233:8081/repository/facebbok-release/</url>
+	      <url>http://172.31.10.15:8081/repository/facebbok-snapshot/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.96.46.233:8081/repository/facebbok-snapshot/</url>
+	      <url>http://172.31.10.15:8081/repository/facebbok-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
